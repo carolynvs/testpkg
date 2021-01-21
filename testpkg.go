@@ -1,4 +1,7 @@
-package testpkg
+package main
 
-func Test() {
+import "fmt"
+
+func main() {
+	fmt.Println("hello world")
 }
