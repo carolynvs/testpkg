@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("testpkg v2.0.2(20384e32)")
+	fmt.Println("testpkg v2.0.3(40384e32)")
 }
